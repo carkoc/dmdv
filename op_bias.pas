@@ -1,3 +1,12 @@
+(*	
+	Projekt:   Widerstands-Dimensionierung eines additiven und subtraktiven Verstärkes
+                   mit OP unter Berücksichtigung der Bias-Strom-Kompensation
+
+	Datum:	   SS 1997, Ruhr-Universität Bochum, Digitale Messdatenverarbeitung (DMDV)
+
+	Historie:  Analyse hinzugefügt ("Rückrechnung")
+*)
+
 unit op_bias;
 
 {$MODE Delphi}
